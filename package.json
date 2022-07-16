@@ -1,0 +1,16 @@
+{
+  "name": "sp-kyc-google-forms-retrieve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Pick (@jimpick)",
+  "license": "MIT/Apache-2 (Permissive License Stack)",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "@googleapis/forms": "^1.1.1"
+  }
+}
